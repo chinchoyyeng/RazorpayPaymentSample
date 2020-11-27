@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RazorpayPaymentSample</string>
+    <string name="key_id">rzp_xxxxxxxxxxxxxxxxxxx</string>
+</resources>
